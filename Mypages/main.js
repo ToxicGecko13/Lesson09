@@ -1,7 +1,7 @@
 // This code starts to run after the HTML page is loaded.
 // Here is our array of board games in order
 
-let boardGames = ['Bored: Break The Safe', 'Bored: The Chameleon', 'Bored: Clue', 'Bored: Monopoly', 'Video: Brawlhalla', 'Video: Skyrim', 'Video: Overwatch', 'Video: Terraria', 'Card: Boy Scout', 'Card: Curses'];  
+let boardGames = ['Board: Break The Safe', 'Board: The Chameleon', 'Board: Clue', 'Board: Monopoly', 'Video: Brawlhalla', 'Video: Skyrim', 'Video: Overwatch', 'Video: Terraria', 'Card: Boy Scout', 'Card: Curses'];  
 console.log(boardGames.langth);
 
 // Something wrong here, it needs fixing.
